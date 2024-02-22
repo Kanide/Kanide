@@ -2,6 +2,8 @@
 
 Hello, my name is Sarah and I'm pursuing a career in web and/or software development
 
+**Repositories of past projects are available upon request**
+
 I am also a digital art hobbyist in my free time
 
 I love dogs and other animals!
