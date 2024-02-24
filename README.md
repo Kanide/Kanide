@@ -1,6 +1,6 @@
 ### Welcome to my GitHub 👋
 
-Hello, my name is Sarah and I'm pursuing a career in web and/or software development
+Hello, my name is Sarah and I'm seeking to pursue a career in web and/or software development
 
 **Repositories of past projects are available upon request**
 
